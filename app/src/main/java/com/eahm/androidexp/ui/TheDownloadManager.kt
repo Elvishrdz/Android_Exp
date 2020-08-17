@@ -78,8 +78,7 @@ class TheDownloadManager : AppCompatActivity() {
      * @param type of file to download. 0 = MP4, 1 = M3U8, 2 = MP3, 3 = OGG
      */
     private fun setCurrentFile(type : Int){
-
-        val selectedUri : Uri = when(type){
+        currentUri = when(type){
             1 -> {
                 Uri.parse(urlM3U8)
             }
@@ -93,8 +92,6 @@ class TheDownloadManager : AppCompatActivity() {
                 Uri.parse(urlMp4)
             }
         }
-
-        currentUri = selectedUri
     }
 
 }
