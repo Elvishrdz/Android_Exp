@@ -7,7 +7,7 @@ Lets implement some awesome android features!
 
 | Menu  | Description | Screenshots  |
 | -----:  | :---: | -----:|
-| The Download Manager | Using the android DownloadManager class to long files from a server. | ![](https://github.com/Elvishrdz/Android_Exp/blob/master/art/the_download_manager.jpg?raw=true)  |
+| The Download Manager | Using the android DownloadManager class to download long files from a server. | ![](https://github.com/Elvishrdz/Android_Exp/blob/master/art/the_download_manager.jpg?raw=true)  |
 
 # Menu 17.08.2020
 ![](https://github.com/Elvishrdz/Android_Exp/blob/master/art/main.jpg?raw=true)
