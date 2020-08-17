@@ -1,4 +1,14 @@
 <resources>
     <string name="app_name">AndroidExperiments</string>
     <string name="android_development">Android Development</string>
+    <string name="download_manager_description">We use the DownloadManager class to download remote files from a server. Press the button and download a 2mb video to test. You need internet access for this example.</string>
+    <string name="download_start">Start Download</string>
+    <string name="choose_your_file">Choose your file</string>
+
+    <array name="file_types">
+        <item>.mp4</item>
+        <item>.m3u8</item>
+        <item>.mp3</item>
+        <item>.ogg</item>
+    </array>
 </resources>
